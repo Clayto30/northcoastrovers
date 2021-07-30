@@ -1,0 +1,15 @@
+:root {
+        --primary-color: #586531;
+        --secondary-color: #d5a324;
+        --tertiary-color: #2f2408;
+}
+
+header {
+    background-color: var(--primary-color);
+}
+
+body {
+    font-family: "Nova Script";
+    color: var(--secondary-color);
+    background-color: var(--tertiary-color);
+}
