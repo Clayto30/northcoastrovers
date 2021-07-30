@@ -2,14 +2,19 @@
         --primary-color: #586531;
         --secondary-color: #d5a324;
         --tertiary-color: #2f2408;
+        --quad-color: #38a3f6;
+        --quint-color: #dd3f3d;
+        --hex-color: #000000;
+        --sep-color: #cfd2cf;
 }
 
 header {
-    background-color: var(--primary-color);
+    color: var(--sep-color);
+    background-color: var(--quint-color);
 }
 
 body {
     font-family: "Nova Script";
-    color: var(--secondary-color);
-    background-color: var(--tertiary-color);
+    color: var(--quad-color);
+    background-color: var(--hex-color);
 }
