@@ -27,3 +27,6 @@ a:hover {
     color: var(--quad-color);
 }
 
+p {
+    font-family: "Nunito";
+}
