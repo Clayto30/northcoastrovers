@@ -18,3 +18,12 @@ body {
     color: var(--quad-color);
     background-color: var(--hex-color);
 }
+
+a {
+    color: var(--sep-color);
+}
+
+a:hover {
+    color: var(--quad-color);
+}
+
